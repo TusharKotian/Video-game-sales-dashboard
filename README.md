@@ -1,6 +1,6 @@
 # 🎮 Video Game Sales Analysis Dashboard (Tableau)
 
-
+Screenshot 2025-07-24 221517.png
 ![Video Game Sales Dashboard]
 
 This interactive Tableau dashboard visualizes global video game sales data, offering insights into platform trends, top-selling genres, and publisher performance over time.
